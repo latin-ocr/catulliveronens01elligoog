@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catulliveronens01elligoog_0007.png"; bbox 0 0 3142 5059; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 174 2220 1261 2317">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 174 2220 1261 2317">
+     <span class='ocr_line' id='line_1_1' title="bbox 174 2220 1261 2317; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 174 2220 480 2317; x_wconf 82' lang='lat' dir='ltr'>CATVLLI</span> <span class='ocrx_word' id='word_1_2' title='bbox 534 2220 994 2317; x_wconf 88' lang='lat' dir='ltr'>VERONENSIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1048 2221 1261 2317; x_wconf 90' lang='lat' dir='ltr'>LIBER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 472 2540 792 2605">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 472 2540 792 2605">
+     <span class='ocr_line' id='line_1_2' title="bbox 472 2540 792 2605; baseline -0.013 0"><span class='ocrx_word' id='word_1_4' title='bbox 472 2596 476 2605; x_wconf 93' lang='lat'>.</span> <span class='ocrx_word' id='word_1_5' title='bbox 640 2540 792 2601; x_wconf 78' lang='lat' dir='ltr'><em>ELLIS</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1576 5059">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1576 5059">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1576 5059; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1576 5059; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
